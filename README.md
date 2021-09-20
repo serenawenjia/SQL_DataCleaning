@@ -12,6 +12,7 @@
 
 ### ---- 2.2 Standardize Date Format
 #### ---- 2.2.1 Preview Converting SaleDate to DATE
+#### ---- 2.2.2 Convert SaleDate form to DATE
 #### ---- 2.2.3 Confirm SaleDate has already converted to DATE 
 <img src="Image/2.2.3.png" height="220px">
 
@@ -65,7 +66,7 @@
 <img src="Image/7.1.png" height="220px">
 
 ### ---- 7.2 Remove duplicate rows
-### ---- ---- 7.3 Checking duplicate rows have been removed
+### ---- 7.3 Checking duplicate rows have been removed
 <img src="Image/7.3.png" height="30px">
 
 
